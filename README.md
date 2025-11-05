@@ -1,6 +1,3 @@
----
-title: CampGround API
-sdk: fastapi
----
+# CampGround API
 
-Ini adalah backend API untuk CampGround Bot.
+Ini adalah backend API untuk CampGround Bot. Dijalankan menggunakan FastAPI dan VSM.
